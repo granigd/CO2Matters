@@ -1,6 +1,6 @@
 # CO2 Matters
 [![DOI](https://zenodo.org/badge/639773723.svg)](https://zenodo.org/badge/latestdoi/639773723)
-[![DOI](https://test.researchdata.tuwien.ac.at/badge/DOI/10.70124/4s85p-g0w08.svg)](https://doi.org/10.70124/4s85p-g0w08)
+[![DOI](https://test.researchdata.tuwien.ac.at/badge/DOI/10.70124/4s85p-g0w08.svg)](https://test.researchdata.tuwien.ac.at/records/4s85p-g0w08)
 
 The aim of this project is to analyse the rise of CO2-levels and global temperature anomalies and confirm/visualize 
 that there is indeed a correlation between them. 
