@@ -7,8 +7,20 @@ To achieve this, temperature data from GISTEMP (Global Land-Ocean Temperature In
 and processed in a python script which also plots and exports the data for further investigation.
 
 ## Input Data
+- [Annual Global Temperature Time Series](https://datahub.io/core/global-temp) 
+- [Trends in Atmospheric Carbon Dioxide](https://datahub.io/core/co2-ppm) 
 
+Both the temperature anomalies and CO2 levels are time series. 
+Temperature data is available from 1880 - 2016 in yearly resolution. CO2 level data is available 
+from 1958-03-01 - 2018-09-01 in monthly resolution. To load and transform the data, 
+a python script which utilizes pandas is being used. The main transformation is changing the resolution 
+of the CO2 Levels to also be in yearly format and then trimming both series to start from 1959 so they can be 
+compared against each other.
 
+## Output Graphics
+![Global Temperature Anomaly (GCAG) and CO2 Levels Over Time.png](output%2FGlobal%20Temperature%20Anomaly%20%28GCAG%29%20and%20CO2%20Levels%20Over%20Time.png)
+
+![Global Temperature Anomaly (GISTEMP) and CO2 Levels Over Time.png](output%2FGlobal%20Temperature%20Anomaly%20%28GISTEMP%29%20and%20CO2%20Levels%20Over%20Time.png)
 
 
 ## Output Data
