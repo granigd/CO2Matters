@@ -1,4 +1,5 @@
 # CO2 Matters
+[![DOI](https://zenodo.org/badge/639773723.svg)](https://zenodo.org/badge/latestdoi/639773723)
 
 The aim of this project is to analyse the rise of CO2-levels and global temperature anomalies and confirm/visualize 
 that there is indeed a correlation between them. 
